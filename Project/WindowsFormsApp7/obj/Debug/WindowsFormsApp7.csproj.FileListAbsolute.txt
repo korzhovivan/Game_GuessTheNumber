@@ -1,0 +1,20 @@
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korzhov Ivan\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korzhov Ivan\Desktop\Windows_Forms\Угадай число\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
